@@ -55,7 +55,7 @@ a:hover {
  */
 
 #header {
-	background-color: #ABA;
+	background-color: #01001;
 }
 
 #footer {
@@ -313,7 +313,7 @@ ol.editorialTeam, ol.editorialTeam li {
  */
 
 pre {
-	background-color: #F0F0E8;
+	background-color: #DDCDF;
 	color: #000;
 	font-size: 1.25em;
 }
